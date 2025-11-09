@@ -11,7 +11,7 @@ The analysis combines Power BI dashboards, SQL insights, and research-backed sec
 
 # Interactive Dashboard Link: 
 
-[Click here to View]([https://app.powerbi.com/view?r=eyJrIjoiNjk2NDQ4YmQtMjBlMy00MzgwLWJmN2EtYWYzZDRiMmQ4YTdmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/view?r=eyJrIjoiNjk2NDQ4YmQtMjBlMy00MzgwLWJmN2EtYWYzZDRiMmQ4YTdmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+[Click here to View]([https://app.powerbi.com/view?r=eyJrIjoiNjk2NDQ4YmQtMjBlMy00MzgwLWJmN2EtYWYzZDRiMmQ4YTdmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9])
 
 # Presentation Link: 
 
