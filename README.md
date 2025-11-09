@@ -11,11 +11,11 @@ The analysis combines Power BI dashboards, SQL insights, and research-backed sec
 
 # Interactive Dashboard Link: 
 
-[Click here to View]()
+[Click here to View](https://app.powerbi.com/view?r=eyJrIjoiNjk2NDQ4YmQtMjBlMy00MzgwLWJmN2EtYWYzZDRiMmQ4YTdmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Presentation Link: 
 
-[Click here to View]()
+[Click here to View](https://youtu.be/Ib2Zz2M-vpQ)
 
 # Problem Statement
 
